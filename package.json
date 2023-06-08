@@ -9,6 +9,9 @@
     "start": "node server.js",
     "dev-start": "nodemon server.js"
   },
+  "engines": {
+    "node": "18.13.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
