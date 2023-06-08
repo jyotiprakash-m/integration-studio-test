@@ -1,0 +1,2 @@
+jpmDatabase#1234
+mongodb+srv://jpm:jpmDatabase#1234@cluster0.vof6tqk.mongodb.net/public?retryWrites=true&w=majority
